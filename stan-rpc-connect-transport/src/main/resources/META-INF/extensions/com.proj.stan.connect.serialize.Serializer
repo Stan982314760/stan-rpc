@@ -1,0 +1,1 @@
+kryo=com.proj.stan.connect.serialize.impl.KryoSerializer

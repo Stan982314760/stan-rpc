@@ -1,0 +1,1 @@
+zk=com.proj.stan.connect.registry.impl.ZkServiceRegistry

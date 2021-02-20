@@ -1,0 +1,1 @@
+gzip=com.proj.stan.connect.compress.impl.GzipCompress

@@ -1,0 +1,1 @@
+netty=com.proj.stan.connect.transport.netty.NettyClientTransport
